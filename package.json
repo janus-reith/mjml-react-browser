@@ -1,6 +1,6 @@
 {
   "name": "mjml-react-browser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "author": {
     "name": "Janus Reith",
@@ -25,14 +25,15 @@
     "release": "yoshi release"
   },
   "devDependencies": {
-    "babel-plugin-transform-runtime": "~6.23.0",
-    "chai": "~4.1.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
     "browser-mjml": "^4.2.8",
-    "puppeteer": "^1.4.0",
-    "react": "^16.4.0",
-    "react-dom": "^16.4.0",
+    "chai": "^4.2.0",
+    "puppeteer": "^2.0.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "webpack": "^4.41.5",
     "with-eyes": "^2.0.3",
-    "yoshi": "^2.1.2"
+    "yoshi": "^4.28.4"
   },
   "peerDependencies": {
     "browser-mjml": "^4.2.8",
