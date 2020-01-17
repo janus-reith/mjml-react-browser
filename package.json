@@ -1,13 +1,13 @@
 {
-  "name": "mjml-react",
+  "name": "mjml-react-browser",
   "version": "1.0.0",
   "license": "MIT",
   "author": {
-    "name": "Mantas Miliukas",
-    "email": "mantasm@wix.com"
+    "name": "Janus Reith",
+    "email": "mail@janusreith.de"
   },
-  "homepage": "https://github.com/wix-incubator/mjml-react",
-  "bugs": "https://github.com/wix-incubator/mjml-react/issues",
+  "homepage": "https://github.com/janus-reith/mjml-react-browser",
+  "bugs": "https://github.com/janus-reith/mjml-react-browser/issues",
   "main": "dist/src/index.js",
   "files": [
     "extensions.js",
