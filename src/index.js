@@ -1,5 +1,5 @@
 import ReactDOMServer from 'react-dom/server';
-import mjml2html from 'mjml';
+import mjml2html from 'browser-mjml';
 
 export {render, renderToMjml};
 
